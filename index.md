@@ -6,3 +6,5 @@ Beatrix "The Bride" Kiddo (Codename: Black Mamba) ist eine fiktionale Figur und 
 * Meister des Hung-Gar-Stils des Kung-Fu
 * kann die Fünf-Punkte-Handflächen-Explosionsherzen-Technik
 * Entschlossenheit
+
+> Hallo Welt!
