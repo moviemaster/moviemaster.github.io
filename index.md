@@ -8,3 +8,5 @@ Beatrix "The Bride" Kiddo (Codename: Black Mamba) ist eine fiktionale Figur und 
 * Entschlossenheit
 
 > Hallo Welt!
+
+<img src="https://upload.wikimedia.org/wikipedia/en/2/2c/Kill_Bill_Volume_1.png" />
